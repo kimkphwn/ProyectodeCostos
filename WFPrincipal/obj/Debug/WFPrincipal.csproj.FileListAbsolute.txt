@@ -1,0 +1,10 @@
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\bin\Debug\WFPrincipal.exe.config
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\bin\Debug\WFPrincipal.exe
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\bin\Debug\WFPrincipal.pdb
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.csprojAssemblyReference.cache
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.Form1.resources
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.csproj.GenerateResource.cache
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.exe
+C:\Users\Leonel\Desktop\Nueva carpeta (2)\WFPrincipal\WFPrincipal\obj\Debug\WFPrincipal.pdb
